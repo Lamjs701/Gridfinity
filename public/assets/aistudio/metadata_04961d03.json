@@ -1,0 +1,6 @@
+{
+  "name": "AI Gridfinity Studio",
+  "description": "Parametric CAD studio converting tool photographs into precision 3D-printable Gridfinity bins and custom foam inserts.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
